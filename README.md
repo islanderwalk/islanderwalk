@@ -27,7 +27,9 @@ Remote backend, automation, internal tools, and platform-oriented engineering ro
 - LinkedIn: https://www.linkedin.com/in/han-wen-liang-3565282ba/
 
 <!-- SEO:SKILLS:START -->
-**技能 Skills：** `Python Backend` · `FastAPI` · `REST API` · `Python` · `web scraping` · `OpenAI API` · `Backend Engineer` · `Automation Engineer` · `Playwright` · `GitHub Actions` · `Workflow Automation` · `Reverse Engineering`
+**Target Roles:** `Backend Engineer` · `Automation Engineer`
 
-> `Backend Automation Engineer` · `Python` · `FastAPI` · `Playwright`
+**Core Stack:** `Python` · `FastAPI` · `OpenAI API` · `Playwright` · `SQLite`
+
+**Focus Areas:** `Browser Automation` · `AI Workflow Systems` · `Reverse Engineering` · `Search Visibility`
 <!-- SEO:SKILLS:END -->
