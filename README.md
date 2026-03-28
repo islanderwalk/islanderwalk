@@ -29,7 +29,7 @@ Remote backend, automation, internal tools, and platform-oriented engineering ro
 <!-- SEO:SKILLS:START -->
 **Target Roles:** `Backend Engineer` · `Automation Engineer`
 
-**Core Stack:** `Python` · `FastAPI` · `OpenAI API` · `Playwright` · `SQLite`
+**Core Stack:** `Python` · `FastAPI` · `Playwright` · `SQLite` · `OpenAI API`
 
 **Focus Areas:** `AI Workflow Systems` · `Reverse Engineering` · `Search Visibility` · `Internal Tools`
 <!-- SEO:SKILLS:END -->
