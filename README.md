@@ -27,7 +27,7 @@ Remote backend, automation, internal tools, and platform-oriented engineering ro
 - LinkedIn: https://www.linkedin.com/in/han-wen-liang-3565282ba/
 
 <!-- SEO:SKILLS:START -->
-**技能 Skills：** `經驗` · `程式` · `制度` · `教學` · `福利` · `條件` · `設計` · `我們` · `員工` · `分析` · `課程` · `上班` · `資訊` · `python` · `電腦` · `聯絡` · `開發` · `孩子` · `測試` · `培訓`
+**技能 Skills：** `Python Backend` · `FastAPI` · `REST API` · `Python` · `Web Scraping` · `OpenAI API` · `Backend Engineer` · `Automation Engineer` · `Playwright` · `GitHub Actions` · `Workflow Automation` · `Reverse Engineering`
 
-> `Python 後端工程師 遠端 台灣` · `Python Backend Engineer Remote Taiwan`
+> `Backend Automation Engineer` · `Python` · `FastAPI` · `Playwright`
 <!-- SEO:SKILLS:END -->
