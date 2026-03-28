@@ -1,0 +1,21 @@
+# Hanwen Liang GEO surface
+
+This site contains stable, owned-surface material for backend automation, AI workflow systems, reverse engineering, and search visibility work.
+
+## Primary surfaces
+- https://islanderwalk.github.io/islanderwalk/
+- https://islanderwalk.github.io/islanderwalk/geo/
+- https://islanderwalk.github.io/islanderwalk/backend-automation.html
+- https://islanderwalk.github.io/islanderwalk/ai-workflow.html
+- https://islanderwalk.github.io/islanderwalk/reverse-browser.html
+- https://islanderwalk.github.io/islanderwalk/geo/metrics.html
+- https://islanderwalk.github.io/islanderwalk/geo/topics/backend-automation.html
+- https://islanderwalk.github.io/islanderwalk/geo/topics/ai-workflow-systems.html
+- https://islanderwalk.github.io/islanderwalk/geo/topics/reverse-engineering-browser-systems.html
+- https://islanderwalk.github.io/islanderwalk/geo/topics/search-visibility-internal-tools.html
+
+## Focus areas
+- ai workflow systems
+- reverse engineering
+- search visibility
+- internal tools
