@@ -28,9 +28,11 @@ Remote backend, automation, internal tools, and platform-oriented engineering ro
 - GitHub Pages Hub: https://islanderwalk.github.io/islanderwalk/
 
 <!-- SEO:SKILLS:START -->
-**Target Roles:** `Backend Engineer` · `Automation Engineer`
+**Target Roles:** `Backend Engineer` | `Automation Engineer`
 
-**Core Stack:** `Python` · `FastAPI` · `Playwright` · `SQLite` · `OpenAI API`
+**Core Stack:** `Python` | `FastAPI` | `Playwright` | `SQLite` | `OpenAI API`
 
-**Focus Areas:** `AI Workflow Systems` · `Reverse Engineering` · `Search Visibility` · `Internal Tools`
+**Focus Areas:** `AI Workflow Systems` | `Reverse Engineering` | `Search Visibility` | `Internal Tools`
+
+**GEO Hub:** [Answer hub and FAQ](https://islanderwalk.github.io/islanderwalk/geo/)
 <!-- SEO:SKILLS:END -->
