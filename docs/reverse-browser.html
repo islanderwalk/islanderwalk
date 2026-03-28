@@ -6,43 +6,90 @@
     <title>Hanwen Liang | Reverse Engineering & Browser Systems</title>
     <meta
       name="description"
-      content="Reverse engineering and browser workflow role page focused on traces, payload analysis, and observable automation."
+      content="Reverse engineering and browser systems role page focused on traces, payloads, XHR sequences, and research-safe automation."
     />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <main class="page">
+      <header class="topbar">
+        <div class="brand">
+          <strong>Hanwen Liang</strong>
+          <span>Reverse engineering role view</span>
+        </div>
+        <nav class="topnav">
+          <a href="./index.html">Hub</a>
+          <a href="./backend-automation.html">Backend</a>
+          <a href="./ai-workflow.html">AI Workflow</a>
+        </nav>
+      </header>
+
       <section class="hero">
         <p class="eyebrow">Role Page</p>
-        <h1>Reverse Engineering &amp; Browser Workflow Systems</h1>
+        <h1>Reverse engineering that turns black-box browser behavior into usable signals.</h1>
         <p class="lead">
-          I turn black-box browser behavior into traceable signals, payload analysis,
-          and usable automation paths.
+          I use traces, payload analysis, schema reports, and browser-side probing to
+          understand search, recommendation, and platform behavior without polluting
+          the production automation path.
         </p>
-        <div class="links">
-          <a href="./index.html">Back to hub</a>
-          <a href="https://github.com/islanderwalk" target="_blank" rel="noreferrer">GitHub</a>
+        <div class="meta">
+          <span>Reverse engineering</span>
+          <span>Browser XHR probing</span>
+          <span>Trace intelligence</span>
         </div>
       </section>
 
-      <section class="panel">
-        <h2>Focus Areas</h2>
-        <ul class="chips">
-          <li>Reverse Engineering</li>
-          <li>Browser XHR Probing</li>
-          <li>Payload Decoding</li>
-          <li>Trace Intelligence</li>
-        </ul>
+      <section class="section">
+        <div class="layout">
+          <div>
+            <h2>Research lane boundaries</h2>
+            <ul class="list">
+              <li>Keep reverse intelligence separate from production apply flow.</li>
+              <li>Observe results and behavior layers instead of pretending we can recover backend models.</li>
+              <li>Use structured traces, schema summaries, and heuristics before making strategy changes.</li>
+            </ul>
+          </div>
+          <div>
+            <h2>Tooling surface</h2>
+            <ul class="stack">
+              <li>Playwright</li>
+              <li>JSONL traces</li>
+              <li>Payload decoding</li>
+              <li>Schema reports</li>
+              <li>JWT claim inspection</li>
+            </ul>
+          </div>
+        </div>
       </section>
 
-      <section class="panel">
-        <h2>Why It Matters</h2>
-        <p>
-          I use trace-driven analysis to understand search, recommendation, and
-          browser-side behavior without polluting production automation paths. The
-          goal is better observability, safer automation, and more reliable system
-          decisions.
-        </p>
+      <section class="section">
+        <h2>Current reverse-intelligence work</h2>
+        <div class="cards">
+          <article class="card">
+            <span class="tag">Search Plane</span>
+            <h3>Browser XHR family mapping</h3>
+            <p>
+              Identified real browser-side endpoint families for search cards,
+              jobs API payloads, and keyword suggestion flows.
+            </p>
+          </article>
+          <article class="card">
+            <span class="tag">AI Result Plane</span>
+            <h3>Notification and token payloads</h3>
+            <p>
+              Extracted observable result-layer payloads such as notification tokens,
+              unread counts, and recommendation filter flows.
+            </p>
+          </article>
+          <article class="card">
+            <span class="tag">Decoder Layer</span>
+            <h3>Trace artifact decoding</h3>
+            <p>
+              Added base64, zlib, raw-deflate, and framework-marker decoding so
+              hidden payloads can be analyzed without pretending to reverse server code.
+            </p>
+          </article>
+        </div>
       </section>
     </main>
   </body>
