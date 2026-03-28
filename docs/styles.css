@@ -260,6 +260,46 @@ h3 {
   text-align: center;
 }
 
+.hint {
+  font-size: 0.92rem;
+}
+
+.evidence {
+  margin: 14px 0 0;
+  padding-left: 18px;
+  color: var(--muted);
+}
+
+.evidence li + li {
+  margin-top: 6px;
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.faq-item {
+  background: var(--panel-strong);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  padding: 20px;
+}
+
+.callout,
+.callout-slab {
+  background:
+    linear-gradient(135deg, rgba(15, 91, 120, 0.08), rgba(154, 77, 28, 0.08)),
+    color-mix(in srgb, var(--panel) 94%, white 6%);
+}
+
+.callout-slab {
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  padding: 20px;
+}
+
 @media (max-width: 900px) {
   .layout,
   .grid-2 {
