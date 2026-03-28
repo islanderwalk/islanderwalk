@@ -1,0 +1,154 @@
+:root {
+  color-scheme: light;
+  --bg: #f4efe6;
+  --panel: #fffaf2;
+  --ink: #1f1a16;
+  --muted: #6f655c;
+  --accent: #204d63;
+  --accent-soft: #d7e8ef;
+  --line: #d9cfc3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Noto Sans", sans-serif;
+  background:
+    radial-gradient(circle at top right, #efe1c7 0, transparent 28%),
+    linear-gradient(180deg, #f8f2ea 0%, var(--bg) 100%);
+  color: var(--ink);
+}
+
+.page {
+  width: min(980px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 40px 0 72px;
+}
+
+.hero,
+.panel {
+  background: color-mix(in srgb, var(--panel) 90%, white 10%);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  padding: 28px;
+  box-shadow: 0 20px 40px rgba(31, 26, 22, 0.06);
+}
+
+.panel {
+  margin-top: 18px;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  font-size: 0.92rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: clamp(2.2rem, 5vw, 4.1rem);
+  max-width: 12ch;
+}
+
+h2 {
+  font-size: 1.45rem;
+  margin-bottom: 14px;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+.lead,
+.panel p {
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.lead {
+  max-width: 58ch;
+  font-size: 1.05rem;
+  margin: 18px 0 0;
+}
+
+.links {
+  display: flex;
+  gap: 12px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.links a {
+  background: var(--accent-soft);
+  padding: 12px 16px;
+  border-radius: 999px;
+}
+
+.chips {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.chips li {
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: #efe7dc;
+  color: #4b4037;
+  font-size: 0.95rem;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 18px;
+}
+
+.card p {
+  min-height: 100px;
+}
+
+@media (max-width: 640px) {
+  .page {
+    width: min(100% - 20px, 980px);
+    padding-top: 20px;
+  }
+
+  .hero,
+  .panel {
+    border-radius: 18px;
+    padding: 22px;
+  }
+
+  .card p {
+    min-height: 0;
+  }
+}
