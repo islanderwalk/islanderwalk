@@ -31,5 +31,5 @@ Remote backend, automation, internal tools, and platform-oriented engineering ro
 
 **Core Stack:** `Python` · `FastAPI` · `OpenAI API` · `Playwright` · `SQLite`
 
-**Focus Areas:** `Browser Automation` · `AI Workflow Systems` · `Reverse Engineering` · `Search Visibility`
+**Focus Areas:** `AI Workflow Systems` · `Reverse Engineering` · `Search Visibility` · `Internal Tools`
 <!-- SEO:SKILLS:END -->
