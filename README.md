@@ -1,38 +1,33 @@
-# Hanwen Liang
+# Wen Liang
 
-Backend & Automation Engineer focused on AI workflow systems, reverse engineering, search visibility, and internal tools.
+**Infrastructure & Platform Automation Engineer**
 
-I build backend-first systems that connect APIs, browser workflows, automation logic, and operational tooling into practical delivery pipelines.
+I build reliable internal tools and platform workflows for enterprise IT. My work connects Python and PowerShell automation with cloud infrastructure, identity, networking, observability, and day-to-day operations.
 
-## Current Focus
+## What I work on
 
-- AI workflow systems
-- reverse engineering and trace analysis
-- backend and automation tooling
-- browser-driven workflow automation
-- search visibility and process optimization
+- Auditable workflow automation with explicit validation, readback, and exception handling
+- GCP/GKE, Kubernetes, Docker, Terraform, GitOps, and CI/CD
+- Active Directory, Microsoft 365, SSL-VPN, Windows, and network operations
+- Python tooling for APIs, browser workflows, telemetry, and operational reporting
 
-## Featured Work
+## Selected public work
 
-- [Enterprise Provisioning Workbench Demo](https://github.com/islanderwalk/enterprise-provisioning-workbench-demo) - Sanitized public showcase of a desktop automation workspace that turns repetitive account requests into a deterministic batch workflow with normalization, merge policy, review queues, and operator-safe execution.
-- [AI Short Video MVP](https://github.com/islanderwalk/ai-short-video-mvp) - Backend-first MVP for an AI-assisted short-video workflow, designed around API contracts, containerized packaging, and production-style delivery.
-- [EnglishAI-Toolkit](https://github.com/islanderwalk/EnglishAI-Toolkit) - Integrated English learning toolkit that combines subtitle translation, flashcards, OCR, and progress tracking into a usable desktop workflow.
+### [Enterprise Provisioning Workbench Demo](https://github.com/islanderwalk/enterprise-provisioning-workbench-demo)
 
-## Open To
+A runnable, sanitized Python demonstration of a provisioning workflow. It normalizes requests, applies deterministic `create / skip / review` decisions, executes through adapters, and produces traceable results. Includes automated tests and sample data.
 
-Remote backend, automation, internal tools, and platform-oriented engineering roles.
+### [EnglishAI Toolkit](https://github.com/islanderwalk/EnglishAI-Toolkit)
 
-## Find Me
+An earlier personal Windows desktop prototype combining subtitle translation, flashcards, OCR, and study tracking. Included as evidence of hands-on Python application work, not as a production platform.
 
-- LinkedIn: https://www.linkedin.com/in/han-wen-liang-3565282ba/
-- GitHub Pages Hub: https://islanderwalk.github.io/islanderwalk/
+## Professional scope
 
-<!-- SEO:SKILLS:START -->
-**Target Roles:** `Backend Engineer` | `Automation Engineer`
+Recent professional work includes enterprise IT automation, identity and secure-access operations, incident troubleshooting, and internal platform tooling. Earlier platform experience includes GCP/GKE, Kubernetes, Terraform, Docker, GitOps, Grafana, and Prometheus.
 
-**Core Stack:** `Python` | `FastAPI` | `Playwright` | `SQLite` | `OpenAI API`
+Some professional systems cannot be published. Public repositories are either sanitized demonstrations or clearly labeled personal prototypes; they do not contain employer data, credentials, or proprietary source code.
 
-**Focus Areas:** `AI Workflow Systems` | `Reverse Engineering` | `Search Visibility` | `Internal Tools`
+## Contact
 
-**GEO Hub:** [Answer hub and FAQ](https://islanderwalk.github.io/islanderwalk/geo/)
-<!-- SEO:SKILLS:END -->
+- [LinkedIn](https://www.linkedin.com/in/hanwenliang/en)
+- Taipei, Taiwan
