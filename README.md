@@ -15,17 +15,13 @@ I build reliable internal tools and platform workflows for enterprise IT. My wor
 
 ### [Enterprise Provisioning Workbench Demo](https://github.com/islanderwalk/enterprise-provisioning-workbench-demo)
 
-A runnable, sanitized Python demonstration of a provisioning workflow. It normalizes requests, applies deterministic `create / skip / review` decisions, executes through adapters, and produces traceable results. Includes automated tests and sample data.
-
-### [EnglishAI Toolkit](https://github.com/islanderwalk/EnglishAI-Toolkit)
-
-An earlier personal Windows desktop prototype combining subtitle translation, flashcards, OCR, and study tracking. Included as evidence of hands-on Python application work, not as a production platform.
+A runnable, sanitized Python demonstration of a provisioning workflow. It normalizes requests, merges duplicates, applies deterministic `create / skip / review` decisions, performs simulated writes through adapters, and exports traceable results. The repository includes automated tests and GitHub Actions CI.
 
 ## Professional scope
 
 Recent professional work includes enterprise IT automation, identity and secure-access operations, incident troubleshooting, and internal platform tooling. Earlier platform experience includes GCP/GKE, Kubernetes, Terraform, Docker, GitOps, Grafana, and Prometheus.
 
-Some professional systems cannot be published. Public repositories are either sanitized demonstrations or clearly labeled personal prototypes; they do not contain employer data, credentials, or proprietary source code.
+Some professional systems cannot be published. Public repositories are either sanitized demonstrations or clearly labeled historical experiments; they do not represent employer-owned source code.
 
 ## Contact
 
