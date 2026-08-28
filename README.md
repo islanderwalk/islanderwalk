@@ -25,5 +25,5 @@ Some professional systems cannot be published. Public repositories are either sa
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/hanwenliang/en)
+- [LinkedIn]([https://www.linkedin.com/in/hanwenliang/en](https://www.linkedin.com/in/han-wen-liang/))
 - Taipei, Taiwan
